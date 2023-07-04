@@ -3,6 +3,8 @@
 
 # Azure Data Scientist Associate Certification Guide	
 
+
+
 <a href="https://www.packtpub.com/product/azure-data-scientist-associate-certification-guide/9781800565005"><img src="https://static.packt-cdn.com/products/9781800565005/cover/smaller" alt="Azure Data Scientist Associate Certification Guide" height="256px" align="right"></a>
 
 This is the code repository for [Azure Data Scientist Associate Certification Guide](https://www.packtpub.com/product/azure-data-scientist-associate-certification-guide/9781800565005), published by Packt.
